@@ -98,10 +98,10 @@ for i in forecast_set:
     df.loc[next_date] = [np.nan for _ in range(len(df.columns)-1)] + [i]
 
 # Save our learned classifier using pickle
-with open('linearregression.pickle', 'wb') as f:
+with open('LinearRegression/linearregression.pickle', 'wb') as f:
     pickle.dump(clf, f)
 # To use the saved classifier just use the following commented line:
-# pickle_in = open('linearregression.pickle', 'rb')
+# pickle_in = open('LinearRegression/linearregression.pickle', 'rb')
 # clf = pickle.load(pickle_in)
 
 # Let's visualise
