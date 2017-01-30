@@ -10,10 +10,10 @@ These algorithms help give some deeper understanding in how they work and how to
 Linear Regression <br />
 K Nearest Neighbors <br />
 Support Vector Machines <br />
-
-## In Progress
 Clustering <br />
 
-## Future 
+## In Progress
 Neural Networks <br />
+
+## Future 
 Deep Learning with TensorFlow <br />
