@@ -13,7 +13,7 @@ Support Vector Machines <br />
 Clustering <br />
 
 ## In Progress
-Neural Networks <br />
+Deep Learning with TensorFlow <br />
 
 ## Future 
-Deep Learning with TensorFlow <br />
+
