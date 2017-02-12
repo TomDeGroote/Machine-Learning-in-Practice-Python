@@ -11,9 +11,10 @@ Linear Regression <br />
 K Nearest Neighbors <br />
 Support Vector Machines <br />
 Clustering <br />
-
-## In Progress
 Deep Learning with TensorFlow <br />
 
-## Future 
+## In Progress
+Currently no parts are under development.
 
+## Future 
+Currently no future work is planned.
